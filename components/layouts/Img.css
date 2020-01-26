@@ -1,0 +1,7 @@
+.myImage {
+    width: 60px;
+    height: 60px;
+    background-image: url("./home.png");
+    background-repeat: no-repeat;
+    background-size: 60%;
+  }
